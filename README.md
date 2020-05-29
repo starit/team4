@@ -84,7 +84,6 @@ git push origin <lesson-n>
 8. 通知助教批改作业。
 
 ## 讲师、助教职责
->>>>>>> 565141e... update workflow
 
 本仓库的master分支由讲师提交；
 
